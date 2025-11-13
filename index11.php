@@ -8,7 +8,7 @@
 <title> GUIA DIGITALN CIUDADANA</title><!--titulo que aparece en la pestaña-->
 <style>
 
- <body {
+ <body { 
     margin: 0; /*elimina margenes por defecto */
     font-family:Arial, sans-serif;/*fuente de texto */
     }
@@ -146,5 +146,6 @@ nav ul li:hover> ul {
       
    </body>
    </html>
+
 
        
